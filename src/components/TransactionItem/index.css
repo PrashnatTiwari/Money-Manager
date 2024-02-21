@@ -1,0 +1,29 @@
+.list-container {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  border: 1px solid #000000;
+  padding-left: 15px;
+}
+
+.title {
+  font-size: 9px;
+  font-weight: bold;
+}
+
+.paragraph {
+  padding-left: 40px;
+}
+
+.delete-button {
+  height: 5px;
+  width: 5px;
+  border: none;
+}
+
+.delete-image {
+  height: 13px;
+  width: 13px;
+  margin-top: 10px;
+  cursor: pointer;
+}

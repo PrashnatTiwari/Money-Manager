@@ -1,0 +1,33 @@
+.list-container-1 {
+  background-color: #ecfccb;
+  height: 10vh;
+  width: 24vw;
+  border-radius: 10px;
+  display: flex;
+  font-size: 10px;
+  justify-content: space-between;
+  align-items: center;
+  padding: 50px;
+  border: 1px solid #84cc16;
+  margin: 30px;
+  margin-left: 5px;
+}
+
+.image {
+  height: 50px;
+  width: 50px;
+}
+
+.font-size {
+  font-size: 15px;
+}
+
+.list-container-2 {
+  background-color: #cffafe;
+  border: 1px solid #06b6d4;
+}
+
+.list-container-3 {
+  background-color: #ede9fe;
+  border: 1px solid #7c3aed;
+}
